@@ -154,7 +154,7 @@ export default function Home() {
                 max-w-xs sm:max-w-md md:max-w-2xl
                 h-452:max-w-none h-280:max-w-none
                 px-2 h-452:px-0 h-280:px-0">
-                Computer Science student at Eastern Washington University currently exploring macOS reverse engineering and UI design tweaks.
+                Computer Science student at University of Memphis currently exploring Swift app development.
               </p>
             </div>
           </div>
